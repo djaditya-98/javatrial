@@ -1,0 +1,3 @@
+class main{
+Public void main(String arr[])
+}

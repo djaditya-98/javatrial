@@ -1,0 +1,3 @@
+java class{
+public void main(){
+}
