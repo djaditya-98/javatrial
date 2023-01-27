@@ -1,3 +1,11 @@
 java class{
 public void main(){
+int a=40;
+int b=50;
+int sum=90;
+System.out.print("sum");
+new systme.in
+for(i=0;i<=8;i++)
+a=a+4;
+new java file
 }
